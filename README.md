@@ -1,6 +1,7 @@
 # Sales Analytics SQL Project (SQL Server / SSMS)
 
 SQL portfolio project: **RAW → CLEAN → STAR SCHEMA → Data Quality Checks → Analytics**.
+
 ![Star schema diagram](docs/screenshots/01_star_schema_diagram.png)
 
 ## Stack
@@ -26,6 +27,8 @@ Fact load:
 - grain uniqueness enforced on `(OrderNumber, OrderLineNumber)`
 - no missing rows in fact
 - totals match between CLEAN and FACT (Sales/Profit)
+  
+ ![Quality checks](docs/screenshots/02_quality_counts_sums.png)
 
 ## Analytics
 Main script:
