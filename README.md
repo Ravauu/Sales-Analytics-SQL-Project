@@ -27,6 +27,12 @@ Fact load:
 - grain uniqueness enforced on `(OrderNumber, OrderLineNumber)`
 - no missing rows in fact
 - totals match between CLEAN and FACT (Sales/Profit)
+
+## Key takeaways
+- Data quality: 2823 rows across RAW/CLEAN/FACT, 0 duplicates, Sales/Profit totals match.
+- Customer concentration: Pareto analysis shows strong concentration of sales in top customers (80/20).
+- RFM segmentation highlights high-value customers (MonetarySales ≥ 10000) and assigns practical segments.
+- Cohort retention calculated for 0–12 months to track repeat behavior over time.
   
  ![Quality checks](docs/screenshots/02_quality_counts_sums.png)
 
