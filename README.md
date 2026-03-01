@@ -1,6 +1,7 @@
 # Sales Analytics SQL Project (SQL Server / SSMS)
 
 SQL portfolio project: **RAW → CLEAN → STAR SCHEMA → Data Quality Checks → Analytics**.
+![Star schema diagram](docs/screenshots/01_star_schema_diagram.png)
 
 ## Stack
 SQL Server (T-SQL), SSMS • Star schema modeling • Data quality validation • CTEs & window functions
