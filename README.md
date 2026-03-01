@@ -26,6 +26,7 @@ Fact load:
 - grain uniqueness enforced on `(OrderNumber, OrderLineNumber)`
 - no missing rows in fact
 - totals match between CLEAN and FACT (Sales/Profit)
+  ![Quality checks](docs/screenshots/02_quality_counts_sums.png)
 
 ## Analytics
 Main script:
