@@ -41,6 +41,9 @@ Includes:
 - YoY monthly growth (window functions)
 - weighted price vs MSRP and order size mix
 - Pareto 80/20 customers
+
+  ![Pareto 80/20](docs/screenshots/03_pareto_80_20.png)
+  
 - RFM segmentation
 - cohort retention (0–12 months)
 
