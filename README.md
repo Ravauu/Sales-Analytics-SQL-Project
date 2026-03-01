@@ -45,6 +45,9 @@ Includes:
   ![Pareto 80/20](docs/screenshots/03_pareto_80_20.png)
   
 - RFM segmentation
+  
+  ![RFM segmentation](docs/screenshots/04_rfm_segments.png)
+  
 - cohort retention (0–12 months)
 
 ## Structure
