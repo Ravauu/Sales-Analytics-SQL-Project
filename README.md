@@ -50,6 +50,8 @@ Includes:
   
 - cohort retention (0–12 months)
 
+  ![Cohort retention](docs/screenshots/05_cohort_retention_table.png)
+
 ## Structure
 - `sql/` — queries
 - `docs/screenshots/` — outputs (schema, checks, key analyses)
